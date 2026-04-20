@@ -2,6 +2,8 @@
 
 Self-hosted [n8n](https://n8n.io) running locally via Docker Compose, backed by PostgreSQL and Redis. Includes a worker node so workflows execute in queue mode — the same architecture you'd use in production.
 
+**Based on original work by [Juan Bernardo Quintero](https://github.com/juanbdo).**
+
 ## Stack
 
 | Service | Image | Purpose |
